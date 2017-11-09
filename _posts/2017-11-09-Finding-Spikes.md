@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Finding Spikes"
+date: 2017-11-09
+---
+
 # Finding Spikes 
 
 Spikes, or action potentials, is the key mechanism by which neurons produce signals. Therefore, if we want to decipher the information transmitted in the brain, we should make sure we can reliably detect spikes. One way of doing this is to make very good devices to measure them, but more often then not there will be noise, and therefore we may want to use more sophisticated methods to separate the spikes from the noise.^[Note that GIGO still stands.] Here are some of my notes on spike detection. 
