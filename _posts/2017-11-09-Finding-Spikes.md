@@ -58,5 +58,5 @@ References:
 [Gaidica 2015](http://gaidi.ca/weblog/extracting-spikes-from-neural-electrophysiology-in-matlab)
 [Simple summary of the different filters](http://www.rfwireless-world.com/Terminology/Butterworth-filter-vs-Chebyshev-filter-vs-Bessel-filter-vs-Elliptic-filter.html)
 [Wave_clus](https://github.com/csn-le/wave_clus)
-
+[Tutorial for preprocessing and analysis of spike-train data](http://www.fieldtriptoolbox.org/tutorial/spike)
 
