@@ -59,4 +59,4 @@ References:
 [Simple summary of the different filters](http://www.rfwireless-world.com/Terminology/Butterworth-filter-vs-Chebyshev-filter-vs-Bessel-filter-vs-Elliptic-filter.html)
 [Wave_clus](https://github.com/csn-le/wave_clus)
 [Tutorial for preprocessing and analysis of spike-train data](http://www.fieldtriptoolbox.org/tutorial/spike)
-
+[Past, present and future of spike detection techniques](http://www.sciencedirect.com/science/article/pii/S0361923015000684)
