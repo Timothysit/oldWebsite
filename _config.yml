@@ -1,5 +1,6 @@
 name: Timothy Sit
 markdown: kramdown
+  parse_block_html: true
 permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-minimal
