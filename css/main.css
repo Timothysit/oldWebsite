@@ -61,3 +61,20 @@ ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+ul {
+  /*font-family: Helvetica, 'Ubuntu Mono';*/
+  font-size: 0.8rem;
+  list-style: inside circle;
+  padding-left: 0;
+
+  li {
+    margin-bottom: .25rem;
+  }
+
+  ul,
+  ol {
+    margin-top: .25rem;
+    margin-bottom: .5rem;
+  }
+}
