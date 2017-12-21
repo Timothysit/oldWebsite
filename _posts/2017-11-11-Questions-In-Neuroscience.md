@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Questions in Neuroscience"
 date: 2017-11-11
 ---
