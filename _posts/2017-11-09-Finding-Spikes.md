@@ -9,7 +9,7 @@ Spikes, or action potentials, is the key mechanism by which neurons produce sign
 
 ## TL; DR 
 
-- threshold method 1: if below^[We used below because spikes represent inflow of positive ions, ie. net flow of negative charge outside of the neuron, I think] $x$ std, then spike. (Schroeter 2015) 
+- threshold method 1: if below[^We used below because spikes represent inflow of positive ions, ie. net flow of negative charge outside of the neuron, I think] $x$ std, then spike. (Schroeter 2015) 
   + In his Rich Club Topology paper Schroeter used 5 SD 
   + In his Master's thesis Prez used 4 SD
   + one criticism of threshold methods is that it tends to catch noise quite readily 
