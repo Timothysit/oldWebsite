@@ -5,7 +5,7 @@ date: 2017-10-29
 
 This is part of "The Blog Project". 
 Start date: 20171028
-There are no specific goals in this project, but since I have gotten quite into computational neuroscience and data anlaysis recently, I aim to build blog as a platform to share some data analysis that I may do. 
+There are no specific goals in this project, but since I have gotten quite into computational neuroscience and data anlaysis recently, I aim to build blog as a platform to share some data analysis that I will do. 
 
 Some ideas of data analysis project to do that may be interseting: 
 
