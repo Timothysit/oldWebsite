@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Finding Spikes"
 date: 2017-11-09
 ---
