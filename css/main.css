@@ -49,3 +49,15 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.MathJax_Display{
+  font-size: 80%;
+}
+
+ul, ol, dl {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica;
+  font-weight: 300;
+  font-size: 0.8rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
